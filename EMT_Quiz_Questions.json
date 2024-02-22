@@ -1,0 +1,194 @@
+[
+    {
+        "prompt" : "The age that a person begins to develop a self-concept or self awareness is:",
+        "correctAnswer" : "School-age",
+        "answerList" : ["Preschool-age",
+                        "Infant",
+                        "School-age",
+                        "Toddler"]
+    },
+    {
+        "prompt" : "The age group that begins to start exploring their world, develops attachment to parents, and can resolve simple problems is:",
+        "correctAnswer" : "Toddlers",
+        "answerList" : ["Infants",
+                        "Adolescents",
+                        "Toddlers",
+                        "School-age children"]
+    },
+    {
+        "prompt" : "Early adulthood is:",
+        "correctAnswer" : "The stage of development between 20 and 40 years old",
+        "answerList" : [
+                            "The stage of development between 15 and 30 years old", 
+                            "The stage of development between 20 and 40 years old", 
+                            "The stage of development between 10 and 20 years old", 
+                            "The stage of development between 30 and 60 years old"
+                        ]
+    },
+    {
+        "prompt" : "Which of the following are characteristics of late adulthood?",
+        "correctAnswer" : "Lung elasticity is diminished, pain perception is diminished, and metabolism is decreased.",
+        "answerList" : [
+                            "Lung elasticity is diminished, pain perception is diminished, and metabolism is decreased.", 
+                            "Lung elasticity is diminished, insulin production increases, and the sleep cycle is disrupted.", 
+                            "Workload and size of the heart increases, pain perception decreases and the sleep cycle is disrupted.", 
+                            "Irregular sleep patterns develop, pain perception is increased, and metabolism is increased."
+                        ]
+    },
+    {
+        "prompt" : "A preschooler is:",
+        "correctAnswer" : "3 - 6 years of age",
+        "answerList" : [
+                            "3 - 6 years of age", 
+                            "1 - 12 months of age", 
+                            "12 - 36 months of age"
+                        ]
+    },
+    {
+        "prompt" : "Menopause typically begins affecting a woman around:",
+        "correctAnswer" : "Late 40s or 50s",
+        "answerList" : [
+                            "Late 40s or 50s", 
+                            "Late 50s or 60s", 
+                            "A broad time frame: it can vary widely, depending on the patient", 
+                            "Late 30s or 40s"
+                        ]
+    },
+    {
+        "prompt" : "The age that most people reach peak physical condition is:",
+        "correctAnswer" : "The early part of early adulthood",
+        "answerList" : [
+                            "Middle adulthood", 
+                            "The late part of early adulthood", 
+                            "The early part of early adulthood", 
+                            "The late part of adolescence"
+                        ]
+    },
+    {
+        "prompt" : "Which of the following patients would have a normal respiratory rate between 20 and 30 breaths a minute?",
+        "correctAnswer" : "Early adults",
+        "answerList" : [
+                            "Early adults", 
+                            "School-age children", 
+                            "Infants", 
+                            "Adolescents"
+                        ]
+    },
+    {
+        "prompt" : "A toddler is:",
+        "correctAnswer" : "12 - 36 months of age",
+        "answerList" : [
+                            "3 - 6 years of age", 
+                            "1 - 12 months of age", 
+                            "12 - 36 months of age" 
+                        ]
+    },
+    {
+        "prompt" : "A child that is 3 years old should at least be able to:",
+        "correctAnswer" : "Walk alone and begin to run.",
+        "answerList" : [
+                            "Walk alone and begin to run.", 
+                            "Stand one-legged for 10 seconds.", 
+                            "Hop, jump, climb and do a somersault.",
+                            "Dress himself." 
+                        ]
+    },
+    {
+        "prompt" : "By the age of 2 months, an infant should be able to:",
+        "correctAnswer" : "Recognize faces and focus on things near to him",
+        "answerList" : [
+                            "Crawl and creep on his hands and knees", 
+                            "Sit on his own", 
+                            "Recognize faces and focus on things near to him",
+                            "Pull himself up on furniture"
+                        ]
+    },
+    {
+        "prompt" : "Early adulthood is characterized by:",
+        "correctAnswer" : "Fewer psychological problems than other age groups",
+        "answerList" : [
+                            "More psychological problems than other age groups", 
+                            "Different types of psychological problems than other age groups", 
+                            "Fewer psychological problems than other age groups" 
+                        ]
+    },
+    {
+        "prompt" : "An infant is:",
+        "correctAnswer" : "1 - 12 months of age",
+        "answerList" : [
+                            "3 - 6 years of age", 
+                            "1 - 12 months of age", 
+                            "12 - 36 months of age" 
+                        ]
+    },
+    {
+        "prompt" : "Fontanelles can be used as a tool for diagnostics in any of the following ways, EXCEPT:",
+        "correctAnswer" : "Palpate them to assess if there is a cranial fracture.",
+        "answerList" : [
+                            "Palpation will tell you if a child's brain is swelling or pushing up on the fontenelles.", 
+                            "In suspected trauma, you can visualize if they are bulging and possibly indicate a swelling brain.", 
+                            "Visualizing sunken in fontenelles will alert the EMT that the baby is dehydrated.",
+                            "Palpate them to assess if there is a cranial fracture."
+                        ]
+    },
+    {
+        "prompt" : "One major difference between an infant an an adult is that:",
+        "correctAnswer" : "The infant's lung tissue can easily rupture due to excessive ventilation pressure.",
+        "answerList" : [
+                            "The infant's lung tissue can easily rupture due to excessive ventilation pressure.", 
+                            "Alveoli are greater with increased collateral ventilation.", 
+                            "The infant's head is equal to 40% of its body weight.",
+                            "You cannot assess mental status in an infant."
+                        ]
+    },
+    {
+        "prompt" : "In which of the following age groups are depression and suicide most common?",
+        "correctAnswer" : "Adolescence",
+        "answerList" : [
+                            "Middle adulthood", 
+                            "Adolescence", 
+                            "Early adulthood",
+                            "Late adulthood" 
+                        ]
+    },
+    {
+        "prompt" : "All of the following are ways to assess mental status in an infant EXCEPT:",
+        "correctAnswer" : "If the infant is sleeping, he is most likely fine, since an infant would not sleep if he were ill",
+        "answerList" : [
+                            "Observing if an infant tracks you as you move around it", 
+                            "If the infant is sleeping, he is most likely fine, since an infant would not sleep if he were ill", 
+                            "Playing with toys",
+                            "A loud active cry" 
+                        ]
+    },
+    {
+        "prompt" : "A child is no longer considered a neonate:",
+        "correctAnswer" : "when he reaches 1 month of age.",
+        "answerList" : [
+                            "when he reaches 1 month of age.", 
+                            "when he becomes a toddler.", 
+                            "when he can sit up independently.",
+                            "when he leaves the hospital." 
+                        ]
+    },
+    {
+        "prompt" : "Fontanelles:",
+        "correctAnswer" : "Close between 3 months for the anterior and 9 to 18 months for the posterior.",
+        "answerList" : [
+                            "Close between 9 months for the anterior and 18 to 24 months for the posterior.", 
+                            "Close between 12 months for the anterior and 24 to 36 months for the posterior.", 
+                            "Close between 3 months for the anterior and 9 to 18 months for the posterior.",
+                            "Close between 18 months for the anterior and 28 to 36 months for the posterior." 
+                        ]
+    },
+    {
+        "prompt" : "Which of the following patients would have a normal respiratory rate between 30 and 40 breaths a minute?",
+        "correctAnswer" : "Toddlers",
+        "answerList" : [
+                            "Early adults", 
+                            "Late adults", 
+                            "Toddlers",
+                            "Adolescents" 
+                        ]
+    }
+]
